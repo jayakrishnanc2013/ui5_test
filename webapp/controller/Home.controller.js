@@ -9,6 +9,7 @@ sap.ui.define([
 
 		return Controller.extend("project1234.controller.Home", {
 			onInit: function () {
+				//do not delete any toast. added fifthe toast
 sap.m.MessageToast.show("Inside onInit Function Sucess");
 sap.m.MessageToast.show("Inside onInit Function third");
 sap.m.MessageToast.show("Inside onInit Function success");
