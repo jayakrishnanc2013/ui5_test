@@ -15,6 +15,7 @@ sap.m.MessageToast.show("Inside onInit Function third");
 sap.m.MessageToast.show("Inside onInit Function success");
 sap.m.MessageToast.show("Inside onInit Function feature");
 sap.m.MessageToast.show("Inside onInit Function fifth");
+				sap.m.MessageToast.show("Inside onInit Function seventh");
 			}
 		});
 	});
