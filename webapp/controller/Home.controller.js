@@ -11,6 +11,7 @@ sap.ui.define([
 			onInit: function () {
 sap.m.MessageToast.show("Inside onInit Function Sucess");
 
+sap.m.MessageToast.show("Inside onInit Function Sixth");
 			}
 		});
 	});
