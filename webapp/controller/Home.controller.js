@@ -10,9 +10,7 @@ sap.ui.define([
 		return Controller.extend("project1234.controller.Home", {
 			onInit: function () {
 sap.m.MessageToast.show("Inside onInit Function Sucess");
-sap.m.MessageToast.show("Inside onInit Function third");
-sap.m.MessageToast.show("Inside onInit Function success");
-sap.m.MessageToast.show("Inside onInit Function feature");
+
 			}
 		});
 	});
